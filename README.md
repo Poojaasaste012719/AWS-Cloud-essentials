@@ -1,0 +1,1 @@
+Gained foundational knowledge of Amazon Web Services, including core cloud concepts, global infrastructure, and key AWS services such as EC2, S3, RDS, Lambda, and IAM. Developed an understanding of cloud security, cost management, and deployment models.
